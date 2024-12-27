@@ -1,4 +1,5 @@
-﻿using PomodoroProject.Properties;
+// This was written by me.
+using PomodoroProject.Properties;
 using System;
 using System.Drawing;
 using System.Media;
