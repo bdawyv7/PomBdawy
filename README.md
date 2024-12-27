@@ -3,61 +3,87 @@
 PomBdawy is a Pomodoro timer application that helps you stay focused and manage your time effectively using the Pomodoro Technique. 
 This app allows you to set work and break intervals, track progress, and maintain a productive workflow.
 
-## Features
+## <br>Features
 
 - **Pomodoro Timer**: Set a timer for focused work intervals.
 - **Break Timer**: Automatic breaks after each Pomodoro session.
 - **Customizable Settings**: Customize the Colors, Fonts and Backgrounds.
 - **Task Tracking**: Write your tasks and Keep track of them and progress.
 
-## Installation
+## <br>Installation
 
    - [Download PomBdawy Setup](your-download-link)
 
 
 
-## Usage
+## <br>Usage
 
 1. **Launch PomBdawy**: After installation, open the application from the start menu or desktop shortcut.
 2. **Configure Settings**: Set your work and break intervals by going to the settings tab.
 3. **Start Timer**: Click on the **Play(▶)** button to begin your Pomodoro session. The timer will count down the work interval, and you will receive an alert when it's time for a break.
 4. **Track Your Progress**: Use the task section to keep track of your work and accomplishments.
 
-## Features and Customization in every screen 
-
-# Focus Screeen 🖥
+# <br>Features and Customization in every screen <br><br>Focus Screeen 🖥
 - here you can see inspiration message
 - start & end interval
 - track your work and break timer
-- mute timer sound 
+- On/Off timer sound 
 <img src="./ScreenShots/FocusScreenRun.png" />
 
-# Tasks Screeen 🖥
-- here you can manage your tasks
+# <br>Tasks Screeen 🖥
+- Manage your tasks
 - (Add,Delete,Update) tasks
 - Clear List
 <img src="./ScreenShots/TasksScreenEmpty.png" />
 <img src="./ScreenShots/TasksScreen.png" />
 
-# List Screeen 🖥
-- here you can Track your work log
-- now there is no database but it will be available soon insha' Allah
+# <br>Data List Screeen 🖥
+- Track your work log
+- Now there is no database but it will be available soon insha' Allah
 <img src="./ScreenShots/DataListScreen.png" />
 
-# Settings Screeen 🖥
-there are three sections in settings screen (Pomodoro, Apperance, Custom)
-**<br><br>Pomodoro 🖥**
-- here you can control all timer length as it appear in the next image
+# <br>Settings Screeen 🖥
+There are three sections in settings screen (Pomodoro, Apperance, Custom)
+
+**<br>Pomodoro 🖥**
+- Control all timer lengths :
+- **Pomodoro length**: Set your desired work time (default: 30 minutes).
+- **short break length**: Set your desired short break time (default: 5 minutes).
+- **long break length**: Set your desired long break time (default: 20 minutes).
+- **long break after**: Set your desired break after how many intervals (default: 4 intervals).
 <img src="./ScreenShots/SetPomo.png" />
 
-**<br>Apperance**
-  - here you can control all timer length as it appear in the next image
-<img src="./ScreenShots/SetPomo.png" />
+**<br><br>Apperance 🖥**
+- Change Timer Background
+- On/Off Timer sound
+- On/Off Dark mode
+- On/Off inspiration message show
+<img src="./ScreenShots/SetApperance.png" />
 
-- **Work Interval**: Set your desired work time (default: 25 minutes).
-- **Break Interval**: Set your desired break time (default: 5 minutes).
-- **Task List**: Add tasks you want to complete and track your progress.
-- **Sound Alerts**: You can enable or disable sound alerts for work and break sessions.
+**<br><br>Custom 🖥**
+- Change inspiration message (text, font, color)
+- change timer, message color 
+- Change menu background color
+- change menu font color
+<img src="./ScreenShots/SetCustom.png" />
+
+# <br>About Screeen 🖥
+- Some info about developer and His social Accounts
+<img src="./ScreenShots/AboutScreen.png" />
+
+# <br>Notifications🔔
+- Receive notification for work time
+<img src="./ScreenShots/work.png" />
+- Receive notification for short break
+<img src="./ScreenShots/short.png" />
+- Receive notification for long break
+<img src="./ScreenShots/long.png" />
+
+
+
+
+
+
 
 ## Technologies Used
 
