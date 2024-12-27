@@ -12,7 +12,7 @@ This app allows you to set work and break intervals, track progress, and maintai
 
 ## <br>Installation
 
-   - [Download PomBdawy Setup](your-download-link)
+   - [Download PomBdawy Setup](https://github.com/bdawyv7/pombdawy/releases) 
 
 
 
@@ -98,8 +98,8 @@ There are three sections in settings screen (Pomodoro, Apperance, Custom)
 If you have any questions or feedback, feel free to reach out:
 
 - **Author**: Bdawy Ahmed
-- **LinkedIn**: [https://www.linkedin.com/in/bdawyv7/]
-- **Tel**: [https://t.me/bdawyv7]
+- [LinkedIn](https://www.linkedin.com/in/bdawyv7/)
+- [Telegram](https://t.me/bdawyv7)
 
 ---
 
