@@ -1,4 +1,5 @@
-﻿namespace PomodoroProject
+// This was written by the framework.
+namespace PomodoroProject
 {
     partial class frmEditTask
     {
