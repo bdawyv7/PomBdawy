@@ -1,4 +1,5 @@
-﻿using System;
+// This was written by me.
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
